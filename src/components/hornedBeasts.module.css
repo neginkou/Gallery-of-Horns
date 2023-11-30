@@ -1,0 +1,15 @@
+.rotate {
+    transform: rotate(45deg); 
+  }
+  .card {
+    box-shadow: 0px 4px 4px 4px #645e5e;
+  }
+  
+  .cardBody {
+    position: relative;
+  }
+  
+  .card button {
+    position: absolute;
+    bottom: 12px;
+  }

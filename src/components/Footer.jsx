@@ -1,10 +1,14 @@
 import React from 'react';
-import styles from './footer.module.css';
+import PropTypes from 'prop-types';
 
 function Footer(props) {
   return (
-    <footer> {props.content}</footer>
-  )
+    <footer>{props.content}</footer>
+  );
 }
+
+Footer.propTypes = {
+  content: PropTypes.string.isRequired,
+};
 
 export default Footer;
