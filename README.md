@@ -31,3 +31,17 @@ Estimate of time needed to complete: 3 hrs
 Start time: 8:45pm
 Finish time: wasn't able to finish, I faced some code challenges
 Actual time needed to complete: 2 hrs
+
+# Day3
+
+![lighthouse3](src/assets/lighthouse3.png)
+
+Number and name of feature: __#4__Display a Modal___
+
+Estimate of time needed to complete: _2 hrs____
+
+Start time: __3pm___
+
+Finish time: __10:30 pm___
+
+Actual time needed to complete: __1 hrs___
