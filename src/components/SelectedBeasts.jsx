@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 
 const SelectedBeast = ({ selectedBeast }) => {
   const [showModal, setShowModal] = useState(!!selectedBeast);
-  const [rotation, setRotation] = useState(0); // Added rotation state
+  const [rotation, setRotation] = useState(0); 
 
   const rotateImg = () => {
     setRotation(rotation + 45);

@@ -22,7 +22,7 @@ const App = () => {
   const handleFooterClick = () => {
     setFooterText('🚀 Thanks for exploring the Beast Gallery! 🚀');
   };
-  
+
   <input
   type="text"
   placeholder="Search images by title or keyword"

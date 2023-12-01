@@ -38,10 +38,24 @@ Actual time needed to complete: 2 hrs
 
 Number and name of feature: __#4__Display a Modal___
 
-Estimate of time needed to complete: _2 hrs____
+Estimate of time needed to complete: _4 hrs____
 
 Start time: __3pm___
 
 Finish time: __10:30 pm___
 
 Actual time needed to complete: __1 hrs___
+
+# Day4
+
+![lighthouse4](src/assets/lighthouse4.png)
+
+Number and name of feature: __#5__Filter by Numbers of Horns___
+
+Estimate of time needed to complete: _5 hrs____
+
+Start time: __2:30pm___
+
+Finish time: __10:37 pm___
+
+Actual time needed to complete: __2 hrs___
